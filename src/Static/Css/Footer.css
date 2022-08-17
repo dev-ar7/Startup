@@ -1,0 +1,16 @@
+.footer-container {
+    color: #a59489;
+    border-top: 1.2px solid #a59489;
+}
+
+.sp2 {
+    color: #f17d2d;
+}
+
+.resources{
+    text-decoration: none;
+}
+
+.resources :hover {
+    color: #f17d2d;   
+}

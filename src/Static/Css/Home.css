@@ -1,0 +1,83 @@
+.animated-text {
+    margin-left: 20px;
+    font-size: 2.5rem;
+}
+
+.grid-box {
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: none;
+}
+
+.grid-box .grid-1 {
+    margin-top: 30px;
+}
+
+.grid-box .grid-1 .h3 .sp1{
+    color: #a59489;
+}
+
+.grid-box .h3 {
+    color: #f17d2d;
+}
+
+.grid-box .p-tag {
+    font-size: 1.2rem;
+    color: #a59489;
+}
+
+.grid-box .p-tag .sp2 {
+    color: #f17d2d;
+}
+
+.aws-btn--primary {
+    background-color: #f17d2d;
+}
+
+.projects .h2 {
+    margin-left: 20px;
+}
+
+.grid-card {
+    margin-top: 15px;
+    margin-left: 20px;
+    margin-bottom: 15px;
+}
+
+.grid-card .MuiPaper-root {
+    background-color: transparent;
+    color: #f17d2d;
+}
+
+.grid-card .MuiPaper-root .body {
+    color: #a59489;
+}
+
+.company-details {
+    margin-top: 15px;
+}
+
+.company-details .h2 {
+    margin-left: 20px;
+}
+
+.company-details .card-box {
+    margin-left: 20px;
+}
+
+.company-details .subtitle {
+    color: #a59489;
+}
+
+.company-details .subtitle .sp2 {
+    color: #f17d2d;
+}
+
+.company-details .icon-btn {
+    color: #f17d2d;
+}
+
+.company-details .card-img {
+    margin-left: 250px;
+    float: inline-end;
+}

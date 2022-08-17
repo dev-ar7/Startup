@@ -1,0 +1,58 @@
+.form {
+    margin-left: 20px;
+    margin-top: 60px;
+    margin-bottom: 20px;
+    color: #a59489;
+}
+
+.form .MuiTypography-root {
+    color: #f17d2d;
+    margin-bottom: 15px;
+    letter-spacing: 1.5px;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+};
+
+.form .MuiOutlinedInput-input {
+    color: #f17d2d;
+}
+
+.form .MuiButton-root {
+    background-color: #f17d2d;
+    color: #1c1b2d;
+    box-shadow: 0px 2px 2px 0px rgba(165, 148, 137, 0.50);
+}
+
+.form .grid-2 {
+    margin-top: 30px;
+}
+
+.form .pitch-me {
+    color: #399ca3;
+    margin-top: 30px;
+}
+
+.form .p-tag .b-tag {
+    color: #f17d2d;
+}
+
+.form .contact-details {
+    margin-top: 25px;
+}
+
+.form .contact-details .mail {
+    align-items: center;
+}
+
+.form .contact-details .icon {
+    height: 1.5rem;
+    width: 1.5rem;
+    color: #f17d2d;
+    margin-right: 7px;
+}
+
+.form .contact-details .email {
+    color: #a59489;
+    font-size: 16px;
+    text-decoration: none;
+}
